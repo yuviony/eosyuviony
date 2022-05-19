@@ -15,7 +15,6 @@
     <b-container fluid>
       <b-card
         border-variant="info"
-        header="Yuviony 24*7 Hrs Online Tamil Radio | All Age Radio"
         header-border-variant="info"
         header-text-variant="info"
         align="center"
